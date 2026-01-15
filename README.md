@@ -1,4 +1,4 @@
-# Brushly
+# DentalAssist
 
 Real-time brushing monitor using MediaPipe Hands + Face Detection. It starts when
 your hand is brought to your face, counts down, tracks a 2-minute session, shows
